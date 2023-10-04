@@ -113,4 +113,4 @@ In this lab we have investigated the differences between a normal and a root use
 We have also learnt how to create and delete users on the system.  
 
 ## References
-[Linux Fundamentals, Paul Cobbaut -  Chapter 27](https://linux-training.be/linuxfun.pdf)
+[Linux Fundamentals, Paul Cobbaut -  Chapter 27-29, 31](https://linux-training.be/linuxfun.pdf)
