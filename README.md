@@ -5,3 +5,5 @@
 02_File_Access_Control - Chapter on file permissions and ownership
 
 03_Editing_Files - Lab on editing files using vi, vim, nano
+
+04_Apache_HTTP_server - Lab on Apache httpd
