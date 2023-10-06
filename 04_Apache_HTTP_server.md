@@ -8,6 +8,11 @@
 - error_log
 - index.html
 
+## Introduction
+
+The Apache HTTP server is a widely used open-source web server software.  It powers a significant portion of websites on the internet. In this lab, we will install, configure and run the Apache HTTP server. 
+
+
 ## Installing the Apache webserver
 
 To install the Apache webserver, the `dnf install` command can be used as with any software installation in Linux.  Refer to the [lab](https://github.com/ChaoChingTan/labs/blob/main/Linux_Software_Installation.md) on software installation specifically the [example](https://github.com/ChaoChingTan/labs/blob/main/Linux_Software_Installation.md#example---software-installation--removal) on how to install the `httpd` package.  
