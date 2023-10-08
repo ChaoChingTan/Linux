@@ -7,3 +7,5 @@
 03_Editing_Files - Lab on editing files using vi, vim, nano
 
 04_Apache_HTTP_server - Lab on Apache httpd
+
+05_mariadb_server - Lab on mariadb
