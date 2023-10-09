@@ -11,3 +11,5 @@
 05_mariadb_server - Lab on mariadb
 
 06_AWS_RDS - Lab on MariaDB on RDS.  Issue running easy create, to investigate.  
+
+07_PHP - Lab on PHP
